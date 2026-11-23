@@ -11,6 +11,7 @@
     ],
   },
   "files": [
+    { "path": ".gitignore", "target-membership": [ "WealthApp/resources" ] },
     { "kind": "folder", "path": "WealthApp", "target-membership": [ "WealthApp" ] },
     { "kind": "folder", "path": "WealthAppTests", "target-membership": [ "WealthAppTests" ] },
     { "kind": "folder", "path": "WealthAppUITests", "target-membership": [ "WealthAppUITests" ] },
